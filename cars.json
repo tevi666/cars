@@ -1,0 +1,54 @@
+{
+  "cars": [
+    {
+      "brand": "lexus",
+      "model": "NX 250",
+      "price": 3079860
+    },
+    {
+      "brand": "bugatti",
+      "model": "chiron",
+      "price": 222396900
+    },
+    {
+      "brand": "pagani",
+      "model": "Zonda HP Barchetta",
+      "price": 1010895000
+    },
+    {
+      "brand": "lotus",
+      "model": "Elise",
+      "price": 7412556
+    },
+    {
+      "brand": "porsche",
+      "model": "Panamera Turbo S",
+      "price": 14210000
+    },
+    {
+      "brand": "nissan",
+      "model": "GT-R",
+      "price": 7726000
+    },
+    {
+      "brand": "chevrolet",
+      "model": "impala",
+      "price": 4000000 
+    },
+    {
+        "brand": "bmw",
+        "model": "m3",
+        "price": 11280000
+      },
+      {
+        "brand": "mercedes",
+        "model": "gelenvagen",
+        "price": 15330000
+      },
+      {
+        "brand": "lamborghini",
+        "model": "urus",
+        "price": 16000000 
+      }
+  ]
+}
