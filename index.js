@@ -16,8 +16,8 @@ select.addEventListener('change', e => {
             }
             dataCar.innerHTML = '';
             dataCar.innerHTML = `
-				<p>Тачка ${select[0].brand} ${select[0].model} </p>
-				<p>Цена ${select[0].price} ₽</p>
+				<p>Тачка: ${select[0].brand} ${select[0].model} </p>
+				<p>Цена: ${select[0].price} ₽</p>
 			`;
         } catch (err) {
             dataCar.innerHTML = '';
